@@ -10,6 +10,6 @@ client: The Iron Yard
 category: Web Development
 githubUrl: https://github.com/cbotwell/concert-tracker
 demoUrl: http://concerttracker.corbinotwell.com/
-description: ConcertTracker is a platform that allows editors to write about music and users to keep track of upcoming concerts and follow thier favorite venues. There's nothing worse than finding out a great band played in town by seeing pictures on Instagram the next day.
+description: ConcertTracker is a platform that allows editors to write about music and users to keep track of upcoming concerts and follow their favorite venues. There's nothing worse than finding out a great band played in town by seeing pictures on Instagram the next day.
 
 ---
