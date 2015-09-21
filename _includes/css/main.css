@@ -48,7 +48,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f13d";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -448,8 +448,8 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
 
-// Fix modal mouse wheel issues
-// https://github.com/twbs/bootstrap/issues/16297 
+/*Fix modal mouse wheel issues*/
+/*https://github.com/twbs/bootstrap/issues/16297*/
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);

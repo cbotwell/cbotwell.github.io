@@ -2,11 +2,14 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: github.png
+alt: GitHub Profile
+title: GitHub Profile
+project-date: July 2015
+client: The Iron Yard
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+githubUrl: https://github.com/cbotwell/5.1-github-profile/tree/develop
+demoUrl: http://cbotwell.github.io/5.1-github-profile/
+description: This project is a recreation of my Github Profile. It uses AJAX and the GitHub API to dynamically pull in details about the user and thier repositories.
 
 ---

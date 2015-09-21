@@ -2,11 +2,14 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: concerttracker.png
+alt: Concert Tracker
+title: Concert Tracker
+project-date: September 2015
+client: The Iron Yard
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+githubUrl: https://github.com/cbotwell/concert-tracker
+demoUrl: http://concerttracker.corbinotwell.com/
+description: ConcertTracker is a platform that allows editors to write about music and users to keep track of upcoming concerts and follow thier favorite venues. There's nothing worse than finding out a great band played in town by seeing pictures on Instagram the next day.
 
 ---
